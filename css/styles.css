@@ -1,0 +1,12 @@
+.intro {
+  font-style: italic;
+}
+
+.about {
+  font-family: serif;
+  color: purple;
+}
+
+p {
+  font-family: "Times New Roman", Times, sans-serif;
+}
